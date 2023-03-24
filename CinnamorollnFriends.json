@@ -1,0 +1,254 @@
+{
+  "name": "CinnamorollnFriends",
+  "description": "Cinnamoroll and Friends Theme (For Femboys)",
+  "version": "1",
+  "authors": [
+    {
+      "name": "YuhMuva#1799",
+      "id": "359111312418275349"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "CHAT_BACKGROUND": [
+      "#F6EEF9",
+      "#F6EEF9"
+    ],
+    "HEADER_PRIMARY": [
+      "#B77E46",
+      "#B77E46"
+    ],
+    "HEADER_SECONDARY": [
+      "#B77E46",
+      "#B77E46"
+    ],
+    "TEXT_NORMAL": [
+      "#5E2F1E",
+      "#5E2F1E"
+    ],
+    "TEXT_MUTED": [
+      "#E892C6",
+      "#E892C6"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#B77E46",
+      "#F2BBDC"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#B77E46",
+      "#B77E46"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#F5DFEF",
+      "#F5DFEF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#F5DFEF",
+      "#F5DFEF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#FDFDE3",
+      "#FDFDE3"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#FDFDE3",
+      "#FDFDE3"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#F3F7A8",
+      "#F3F7A8"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#FDFDE3",
+      "#FDFDE3"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#FDFDE3",
+      "#FDFDE3"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FDFDE3",
+      "#F7FDFC"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#B77E46",
+      "#F7FDFC"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#F5DFEF",
+      "#F5DFEF"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#B77E46",
+      "#B77E46"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#F3F7A8",
+      "#F3F7A8"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#F3F7A8",
+      "#B77E46"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#F3F7A8",
+      "#F3F7A8"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent",
+      "#E892C6"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "#E892C6"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent",
+      "#E892C6"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#E892C6",
+      "#F7FDFC"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#F2BBDC",
+      "#F2BBDC"
+    ],
+    "TEXT_LINK": [
+      "#984C31",
+      "#4A2B44"
+    ],
+    "KEYBOARD": [
+      "#F1B9E2",
+      "#FDFDE3"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#5E2F1E",
+    "PRIMARY_200": "#5E2F1E",
+    "PRIMARY_300": "#5E2F1E",
+    "PRIMARY_360": "#5E2F1E",
+    "PRIMARY_400": "#E892C6",
+    "PRIMARY_500": "#E892C6",
+    "PRIMARY_600": "#F5DFEF",
+    "PRIMARY_630": "#E892C6",
+    "PRIMARY_700": "#E892C6",
+    "PRIMARY_800": "#F3F7A8",
+    "BRAND_260": "#F5DFEF",
+    "BRAND_300": "#F5DFEF",
+    "BRAND_330": "#F5DFEF",
+    "BRAND_345": "#F5DFEF",
+    "BRAND_360": "#F2BBDC",
+    "BRAND_400": "#5E2F1E",
+    "BRAND_430": "#F2BBDC",
+    "BRAND_460": "#F2BBDC",
+    "BRAND_500": "#E892C6",
+    "BRAND_530": "#E892C6",
+    "BRAND_560": "#E892C6",
+    "BRAND_600": "#E892C6",
+    "BRAND_630": "#E06CA0",
+    "BRAND_660": "#E06CA0",
+    "BRAND_700": "#E06CA0",
+    "RED_260": "#F5DFEF",
+    "RED_300": "#F5DFEF",
+    "RED_330": "#F5DFEF",
+    "RED_345": "#F5DFEF",
+    "RED_360": "#F2BBDC",
+    "RED_400": "#F2BBDC",
+    "RED_430": "#F2BBDC",
+    "RED_460": "#F2BBDC",
+    "RED_500": "#E892C6",
+    "RED_530": "#E892C6",
+    "RED_560": "#E892C6",
+    "RED_600": "#E892C6",
+    "RED_630": "#E06CA0",
+    "RED_660": "#E06CA0",
+    "RED_700": "#E06CA0",
+    "ORANGE_260": "#F5DFEF",
+    "ORANGE_300": "#F5DFEF",
+    "ORANGE_330": "#F5DFEF",
+    "ORANGE_345": "#F5DFEF",
+    "ORANGE_360": "#F2BBDC",
+    "ORANGE_400": "#F2BBDC",
+    "ORANGE_430": "#F2BBDC",
+    "ORANGE_460": "#F2BBDC",
+    "ORANGE_500": "#E892C6",
+    "ORANGE_530": "#E892C6",
+    "ORANGE_560": "#E892C6",
+    "ORANGE_600": "#E892C6",
+    "ORANGE_630": "#E06CA0",
+    "ORANGE_660": "#E06CA0",
+    "ORANGE_700": "#E06CA0",
+    "YELLOW_260": "#F5DFEF",
+    "YELLOW_300": "#F5DFEF",
+    "YELLOW_330": "#F5DFEF",
+    "YELLOW_345": "#F5DFEF",
+    "YELLOW_360": "#F2BBDC",
+    "YELLOW_400": "#F2BBDC",
+    "YELLOW_430": "#F2BBDC",
+    "YELLOW_460": "#F2BBDC",
+    "YELLOW_500": "#E892C6",
+    "YELLOW_530": "#E892C6",
+    "YELLOW_560": "#E892C6",
+    "YELLOW_600": "#E892C6",
+    "YELLOW_630": "#E06CA0",
+    "YELLOW_660": "#E06CA0",
+    "YELLOW_700": "#E06CA0",
+    "GREEN_260": "#F5DFEF",
+    "GREEN_300": "#F5DFEF",
+    "GREEN_330": "#F5DFEF",
+    "GREEN_345": "#F5DFEF",
+    "GREEN_360": "#F2BBDC",
+    "GREEN_400": "#F2BBDC",
+    "GREEN_430": "#F2BBDC",
+    "GREEN_460": "#F2BBDC",
+    "GREEN_500": "#E892C6",
+    "GREEN_530": "#E892C6",
+    "GREEN_560": "#E892C6",
+    "GREEN_600": "#E892C6",
+    "GREEN_630": "#E06CA0",
+    "GREEN_660": "#E06CA0",
+    "GREEN_700": "#E06CA0",
+    "BLUE_260": "#F5DFEF",
+    "BLUE_300": "#F5DFEF",
+    "BLUE_330": "#F5DFEF",
+    "BLUE_345": "#F5DFEF",
+    "BLUE_360": "#F2BBDC",
+    "BLUE_400": "#F2BBDC",
+    "BLUE_430": "#F2BBDC",
+    "BLUE_460": "#F2BBDC",
+    "BLUE_500": "#E892C6",
+    "BLUE_530": "#E892C6",
+    "BLUE_560": "#E892C6",
+    "BLUE_600": "#E892C6",
+    "BLUE_630": "#E06CA0",
+    "BLUE_660": "#E06CA0",
+    "BLUE_700": "#E06CA0"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/857863120970317867/1088830037706412073/IMG_4853.jpg",
+    "alpha": 1.0
+  },
+  "color": "#fdc0d2"
+}
