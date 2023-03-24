@@ -63,12 +63,12 @@
       "#F8F1A8"
     ],
     "BACKGROUND_ACCENT": [
-      "#F7D881",
-      "#F7D881"
+      "#D6D090",
+      "#D6D090"
     ],
     "BACKGROUND_FLOATING": [
-      "#F7D164",
-      "#F7D164"
+      "#D6D090",
+      "#D6D090"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#F8F1A8",
@@ -95,11 +95,11 @@
       "#B77E46"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#F7D881",
-      "#F7D881"
+      "#D6D090",
+      "#D6D090"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#F7D881",
+      "#D6D090",
       "#B77E46"
     ],
     "BACKGROUND_MENTIONED": [
@@ -107,8 +107,8 @@
       "#E16BB0"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#F7D881",
-      "#F7D881"
+      "#D6D090",
+      "#D6D090"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "transparent",
@@ -153,7 +153,7 @@
     "PRIMARY_600": "#F5DFF2",
     "PRIMARY_630": "#E993D2",
     "PRIMARY_700": "#E993D2",
-    "PRIMARY_800": "#F7D881",
+    "PRIMARY_800": "#D6D090",
     "BRAND_260": "#F5DFF2",
     "BRAND_300": "#F5DFF2",
     "BRAND_330": "#F5DFF2",
