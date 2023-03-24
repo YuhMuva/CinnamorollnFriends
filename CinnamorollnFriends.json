@@ -91,8 +91,8 @@
       "#F5DFEF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#F7FDFC",
-      "#F7FDFC"
+      "#FCF6D2",
+      "#FCF6D2"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#FCF6D2",
@@ -139,8 +139,8 @@
       "#4A2B44"
     ],
     "KEYBOARD": [
-      "#F1B9E2",
-      "#FDFDE3"
+      "#F5DFEF",
+      "#F5DFEF"
     ]
   },
   "rawColors": {
@@ -246,7 +246,7 @@
     "BLUE_700": "#E06CA0"
   },
   "background": {
-    "blur": 0.1,
+    "blur": 0.5,
     "url": "https://cdn.discordapp.com/attachments/857863120970317867/1088830037706412073/IMG_4853.jpg",
     "alpha": 1.0
   },
