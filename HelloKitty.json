@@ -87,8 +87,8 @@
       "#F7FDFC"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#B77E46",
-      "#B77E46"
+      "#F5DFEF",
+      "#F5DFEF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#B77E46",
@@ -103,8 +103,8 @@
       "#B77E46"
     ],
     "BACKGROUND_MENTIONED": [
-      "#E06CA0",
-      "#E06CA0"
+      "#F2BBDC",
+      "#F2BBDC"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
       "#F3F7A8",
@@ -250,5 +250,5 @@
     "url": "https://cdn.discordapp.com/attachments/857863120970317867/1088830037706412073/IMG_4853.jpg",
     "alpha": 1.0
   },
-  "color": "#E892C6"
+  "color": "#fdc0d2"
 }
