@@ -83,7 +83,7 @@
       "#F7FDFC"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#B77E46",
+      "#F5DFEF",
       "#F7FDFC"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
@@ -91,8 +91,8 @@
       "#F5DFEF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#B77E46",
-      "#B77E46"
+      "#F7FDFC",
+      "#F7FDFC"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#FCF6D2",
@@ -100,7 +100,7 @@
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FCF6D2",
-      "#B77E46"
+      "#F5DFEF"
     ],
     "BACKGROUND_MENTIONED": [
       "#F2BBDC",
