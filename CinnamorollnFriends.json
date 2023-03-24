@@ -1,6 +1,6 @@
 {
-  "name": "CinnamorollnFriends",
-  "description": "Cinnamoroll and Friends Theme (For Femboys)",
+  "name": "HelloKitty",
+  "description": "Hawaiian Hello Kitty Theme (For Femboys)",
   "version": "1",
   "authors": [
     {
@@ -63,8 +63,8 @@
       "#FDFDE3"
     ],
     "BACKGROUND_ACCENT": [
-      "#F3F7A8",
-      "#F3F7A8"
+      "#FCF6D2",
+      "#FCF6D2"
     ],
     "BACKGROUND_FLOATING": [
       "#F2BBDC",
@@ -95,11 +95,11 @@
       "#B77E46"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#F3F7A8",
-      "#F3F7A8"
+      "#FCF6D2",
+      "#FCF6D2"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#F3F7A8",
+      "#FCF6D2",
       "#B77E46"
     ],
     "BACKGROUND_MENTIONED": [
@@ -107,8 +107,8 @@
       "#F2BBDC"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#F3F7A8",
-      "#F3F7A8"
+      "#FCF6D2",
+      "#FCF6D2"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "transparent",
@@ -152,8 +152,8 @@
     "PRIMARY_500": "#E892C6",
     "PRIMARY_600": "#F5DFEF",
     "PRIMARY_630": "#E892C6",
-    "PRIMARY_700": "#E892C6",
-    "PRIMARY_800": "#F3F7A8",
+    "PRIMARY_700": "#FDFDE3",
+    "PRIMARY_800": "#FCF6D2",
     "BRAND_260": "#F5DFEF",
     "BRAND_300": "#F5DFEF",
     "BRAND_330": "#F5DFEF",
