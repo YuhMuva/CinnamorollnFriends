@@ -31,12 +31,12 @@
       "#FEFCFD"
     ],
     "INTERACTIVE_NORMAL": [
-      "#FDFCE3",
-      "#FDFCE3"
+      "#7F767A",
+      "#7F767A"
     ],
     "INTERACTIVE_HOVER": [
-      "#FDD5AD",
-      "#FDD5AD"
+      "#7F79FB",
+      "#7F79FB"
     ],
     "INTERACTIVE_ACTIVE": [
       "#BF91C5",
@@ -152,7 +152,7 @@
     "PRIMARY_500": "#FFA6C1",
     "PRIMARY_600": "#FADDE1",
     "PRIMARY_630": "#FF87AB",
-    "PRIMARY_660": "#FF97B7",
+    "PRIMARY_660": "#FFCAD4",
     "PRIMARY_700": "#FADDE1",
     "PRIMARY_800": "#FADDE1",
     "BRAND_260": "#FADDE1",
@@ -168,8 +168,8 @@
     "BRAND_560": "#FFC4F6",
     "BRAND_600": "#FFC4F6",
     "BRAND_630": "#FFC4F6",
-    "BRAND_660": "#FF87AB",
-    "BRAND_700": "#FF87AB",
+    "BRAND_660": "#FFCAD4",
+    "BRAND_700": "#FFCAD4",
     "RED_260": "#FFC4F6",
     "RED_300": "#FFC4F6",
     "RED_330": "#FFC4F6",
@@ -182,9 +182,9 @@
     "RED_530": "#FFC4F6",
     "RED_560": "#FFC4F6",
     "RED_600": "#FFC4F6",
-    "RED_630": "#FF87AB",
-    "RED_660": "#FF87AB",
-    "RED_700": "#FF87AB",
+    "RED_630": "#FFCAD4",
+    "RED_660": "#FFCAD4",
+    "RED_700": "#FFCAD4",
     "ORANGE_260": "#FFC4F6",
     "ORANGE_300": "#FFC4F6",
     "ORANGE_330": "#FFC4F6",
@@ -197,9 +197,9 @@
     "ORANGE_530": "#FFC4F6",
     "ORANGE_560": "#FFC4F6",
     "ORANGE_600": "#FFC4F6",
-    "ORANGE_630": "#FF87AB",
-    "ORANGE_660": "#FF87AB",
-    "ORANGE_700": "#FF87AB",
+    "ORANGE_630": "#FFCAD4",
+    "ORANGE_660": "#FFCAD4",
+    "ORANGE_700": "#FFCAD4",
     "YELLOW_260": "#FFC4F6",
     "YELLOW_300": "#FFC4F6",
     "YELLOW_330": "#FFC4F6",
@@ -212,9 +212,9 @@
     "YELLOW_530": "#FFC4F6",
     "YELLOW_560": "#FFC4F6",
     "YELLOW_600": "#FFC4F6",
-    "YELLOW_630": "#FF87AB",
-    "YELLOW_660": "#FF87AB",
-    "YELLOW_700": "#FF87AB",
+    "YELLOW_630": "#FFCAD4",
+    "YELLOW_660": "#FFCAD4",
+    "YELLOW_700": "#FFCAD4",
     "GREEN_260": "#FFC4F6",
     "GREEN_300": "#FFC4F6",
     "GREEN_330": "#FFC4F6",
@@ -227,9 +227,9 @@
     "GREEN_530": "#FFC4F6",
     "GREEN_560": "#FFC4F6",
     "GREEN_600": "#FFC4F6",
-    "GREEN_630": "#FF87AB",
-    "GREEN_660": "#FF87AB",
-    "GREEN_700": "#FF87AB",
+    "GREEN_630": "#FFCAD4",
+    "GREEN_660": "#FFCAD4",
+    "GREEN_700": "#FFCAD4",
     "BLUE_260": "#FFC4F6",
     "BLUE_300": "#FFC4F6",
     "BLUE_330": "#FFC4F6",
@@ -242,13 +242,13 @@
     "BLUE_530": "#FFC4F6",
     "BLUE_560": "#FFC4F6",
     "BLUE_600": "#FFC4F6",
-    "BLUE_630": "#FF87AB",
-    "BLUE_660": "#FF87AB",
-    "BLUE_700": "#FF87AB"
+    "BLUE_630": "#FFCAD4",
+    "BLUE_660": "#FFCAD4",
+    "BLUE_700": "#FFCAD4"
   },
   "background": {
     "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/857863120970317867/1088830037706412073/IMG_4853.jpg",
+    "url": "https://cdn.discordapp.com/attachments/857863120970317867/1115797372136603788/DE89B1EF-2E3A-40F3-B945-AB49F04F4C8B.jpg",
     "alpha": 1.0
   },
   "color": "#FFCAD4"
