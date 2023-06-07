@@ -31,12 +31,12 @@
       "#FEFCFD"
     ],
     "INTERACTIVE_NORMAL": [
-      "#7F767A",
-      "#7F767A"
+      "#F9E9F2",
+      "#F9E9F2"
     ],
     "INTERACTIVE_HOVER": [
-      "#7F79FB",
-      "#7F79FB"
+      "#FDFCE3",
+      "#FDFCE3"
     ],
     "INTERACTIVE_ACTIVE": [
       "#F9E9F2",
@@ -91,8 +91,8 @@
       "#F5DFEF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#FCF6D2",
-      "#FCF6D2"
+      "#7F767A",
+      "#7F767A"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#FCF6D2",
@@ -150,7 +150,7 @@
     "PRIMARY_360": "#FFC4F6",
     "PRIMARY_400": "#FFA6C1",
     "PRIMARY_500": "#FFA6C1",
-    "PRIMARY_600": "#FADDE1",
+    "PRIMARY_600": "#7F767A",
     "PRIMARY_630": "#FF87AB",
     "PRIMARY_660": "#FFCAD4",
     "PRIMARY_700": "#FADDE1",
