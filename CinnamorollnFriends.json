@@ -24,7 +24,7 @@
     ],
     "TEXT_NORMAL": [
       "#F9E9F2",
-      "#F9E9F2"
+      "#b26d92"
     ],
     "TEXT_MUTED": [
       "#FEFCFD",
@@ -32,19 +32,19 @@
     ],
     "INTERACTIVE_NORMAL": [
       "#FBF7D2",
-      "#FBF7D2"
+      "#a76183"
     ],
     "INTERACTIVE_HOVER": [
       "#FDFCE3",
-      "#FDFCE3"
+      "#9f708b"
     ],
     "INTERACTIVE_ACTIVE": [
       "#F9E9F2",
-      "#F9E9F2"
+      "#a45f86"
     ],
     "INTERACTIVE_MUTED": [
       "#FDFCE3",
-      "#FDFCE3"
+      "#ad6886"
     ],
     "BACKGROUND_PRIMARY": [
       "#7F767A",
@@ -108,7 +108,7 @@
     ],
     "BACKGROUND_MENTIONED_HOVER": [
       "#FCF6D2",
-      "#FCF6D2"
+      "#b86890"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "transparent",
